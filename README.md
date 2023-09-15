@@ -1,2 +1,2 @@
 # Calculator-
-This is only learning purpose 
+This is only learning purposes 
